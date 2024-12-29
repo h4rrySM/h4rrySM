@@ -2,7 +2,7 @@
 Hi there ⭐  
 I'm currently interested in C/C++ programming, Algorithm, PS w/ code golfing, and Number theory!  
 ___
-### My Skills
+### Skills
 * Programming Languages
 <div>
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@ ___
 </div>
 
 ___
-### My PS Profiles
+### PS Profiles
 <div align="center"><b>solved.ac</b> Diamond 💎</div>
 <div align="center">
   <a href="https://solved.ac/h4rry">
@@ -59,6 +59,6 @@ ___
 </div>
 
 ___
-### My Work Experiences
+### Work Experiences
 * 24-2 Dongguk Univ. Object-Oriented Programming(CSC2003) TA (24.10 ~ 24.12)  
 * 24-Winter Dongguk Univ. SEI GPU server manager (24.12 ~ )
