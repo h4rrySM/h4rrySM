@@ -61,4 +61,4 @@ ___
 ___
 ### Work Experiences
 * 24-2 Dongguk Univ. Object-Oriented Programming(CSC2003) TA (24.10 ~ 24.12)  
-* 24-Winter Dongguk Univ. SEI GPU server manager (24.12 ~ )
+* 24-Winter Dongguk Univ. AI-LAB GPU server manager (24.12 ~ )
