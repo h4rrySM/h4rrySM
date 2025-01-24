@@ -1,6 +1,5 @@
 ## h4rry
 Hi there ⭐  
-I'm currently interested in C/C++ programming, Algorithm, PS w/ code golfing, and Number theory!  
 ___
 ### Skills
 * Programming Languages
@@ -61,4 +60,3 @@ ___
 ___
 ### Work Experiences
 * 24-2 Dongguk Univ. Object-Oriented Programming(CSC2003) TA (24.10 ~ 24.12)  
-* 24-Winter Dongguk Univ. AI-LAB GPU server manager (24.12 ~ )
